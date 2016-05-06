@@ -1,0 +1,50 @@
+1:1972:1986:1989:1990:b
+2:cung dien Mua Xuan:cung dien Mua He:cung dien Mua Thu:cung dien Mua Dong:b
+3:quan dao Hoang Sa:ban dao Son Tra:bai But:bien Non Nuoc:a
+4:khu lang mo Giza:lang mo da nu hoang Artemisia:van ly truong thanh:hai dang Alexandria:c
+5:dap nieu com:dap vo bat:be gay doi dua:xe ao:c
+6:Wan Bator:Kualar Lumpur & Putrajaya:New Delhi:Pnom Penh:a
+7:Trung Quoc:My:Campuchia:Lao:c
+8:2:3:4:5:b
+9:the ki II:the ki IV:the ki VI:the ki VIII:a
+10:Tuyen Quang:Ha Giang:Son La:Lao Cai:b
+11:Khanh Hoa:Kien Giang:Binh Thuan:Ninh Thuan:c
+12:Phu Vang:Phu Loc:Quang Dien:Phonh Dien:b
+13:Nha Trang-Khanh Hoa:Tra Co-Quang Ninh:Sam Son-Thanh Hoa:Cua Lo-Nghe An:b
+14:Ai Cap:An Do:Nam Phi:Tho Nhi Ky:a
+15:An Do:Dubai:Thai Lan: Campuchia:b
+16:Ngo Viet Thu:Nguyen Van Long:Ngo Nam:Huynh Tan Phat:a
+17:cong chieng:trong dong ngoc lu:trong dong Dong Son:nha san:c
+18:Bac Kan:Bac Ninh:Ha Giang:Son La:a
+19:2003:2005:2007:2009:a
+20:Okombok:Kate:Thinsak:Sakha:a
+21:Bach Tho Phuong:Bat Trang Phuong:Trang Tien Phuong:Bach Bat Phuong:a
+22:Champa:Campuchia:An Do:Thai Lan:a
+23:thoi Ly:thoi Tran:thoi Dinh: thoi Le:d
+24:1896:1897:1898:1899:c
+25:1912:1913:1914:1915:c
+26:Nhat Ban:Venezuela:Dubai:Australia:d
+27:den Parthenon:den Taj Mahal:van ly truong thanh:cung dien Mua Dong:b
+28:2001:2002:2003:2004:c
+29:Bac Bo:Bac Trung Bo:Nam Trung Bo:Tay Nguyen:a
+30:Bac Bo:Bac Trung Bo:Tay Nam Bo:Trung Nguyen::b
+31:Thomas Cook:Ferdinand Magellan:william Clark:Christopher Columbus:a
+32:deo Ngoan Muc:deo Hai Van:thanh co Quang Tri:ca a,b,c:b
+33:Hong Kong:Trung Quoc:Nhat Ban:Viet Nam:a
+34:song Gianh:song Duong:song Thu Bon:song Huong:c
+35:Kate:Ombongoc:Ponagar:tat ca deu sai:a
+36:deo Ca:deo Ru Ri:deo Hai Van:deo Chuoi:c
+37:thoi Ly:thoi Tran:thoi Le:thoi Nguyen:a
+38:Cao Van Lau:Nguyen Van Cao:Phan Huu Vong:Bui Duc Chi:a
+39:Bac cuc:Trung Quoc:Ao:Anh:c
+40:truong Quoc hoc Hue:van mieu Quoc Tu Giam:chua But:chua Mot Cot:b
+41:du day:di thang bang:tha dieu:mua tren khong:c
+42:ao ba ba:ao dai:ao tu than:ao yem:b
+43:Quang Ninh:Ha Tay:Bac Ninh:Ha Noi:c
+44:giay do:giay diep:giay polure:giay van:a
+45:Nguyen Dang Dao:Tran Tat Van:Trinh Tue:Trang Quynh:c
+46:Dubai:Nhat Ban:Thuy Dien:Hoa Ky:a
+47:dao Phu Quoc:dao Phu quy:dao Cat Ba:dao Bach Long Vi:a
+48:Ho Chi Minh:Da Nang:Nha Trang:Hai Phong:d
+49:Arab Saudi:Iran:Iraq:Tho Nhi Ky:c
+50:1976:1979:1995:1997:b

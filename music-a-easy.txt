@@ -1,0 +1,50 @@
+1:Canada:My:Uc:Phap:a
+2:4:5:6:7:b
+3:My:Canada:Uc:Brazil:a
+4:Remix:American got talent:X-factor:The Voice:c
+5:1:2:3:4:d
+6:8:9:10:11:a
+7:Toc Tien:Dong Nhi:Isaac:Son Tung MTP:b
+8:Duc Vinh:Duc Do:Duc Trieu:Duc Nhan:a
+9:Nhat Mai:Nhat Ha:Nhat Thuy:Nhat Son:c
+10:10:11:12:13:a
+11:David Nhan:Thai Anh Shit:HT Handsome:Paul Walker:d
+12:My Heart Will Go On:Let It Go:Let It Be:Let Her Go:b
+13:Demi Lovato:Rihanna:Selena Gomez:Justin Bieber:a
+14:2:3:4:5:d
+15:TOP:G-Dragon:Suju:Nhan Hole:b
+16:Shane Filan:Shane Gasol:Shane Mane:Shane Ten:a
+17:Le Nhan:Le Tin:Le Hoang:Le Anh:c
+18:Celine Nhan:Celine Dion:Celine Trump:Celine Clement:b
+19:Doom:Titanic:Crazy Love:Love:b
+20:Carly Mae Jepsen:Carly Rae Jepsen:Carly Fine Jepsen:Carly Rae Jepsen:d
+21:Uc:My:Anh:Phap:b
+22:My:Anh:Phap:Ha Lan:a
+23:Justin Bieber:Justin Timberlake:Michael Jackson:Michelle:c
+24:Fall Out Boy:ColdPlay:Beatles:Hang Out:b
+25:Shane Filane:TOP:Timbaland:Selena Gomez:a
+26:Giang Hong Ngoc:Toc Tien:Son Tung MTP:Hoang Nhan:c
+27:Pb Nation:Centrium:Centrump:Cent50:a
+28:Rihanna:Lovato:Eminem:Hardwell:a
+29:Son Tung MTP:365Daband:Buc Tuong:Fire:b
+30:Imagine sky:Imagine eract:Imagine future:Imagine dragon:d
+31:Britney Hill:Britney Spears:Britney Tomnie:Britney Cool:b
+32:Naughty Boy:Red Skull:Fall Out Boy:PB Nation:a
+33:Tien Ciu:Tien Tien:Toc Tien:Thuy Tien:b
+34:Shayne Ward:Shayne Hill:Shyne Telles:Shill Sunny:a
+35:Imagine sky:Imagine eract:Imagine future:Imagine dragon:d
+36:Wiz Khalifa,Charlie Puth:LMFAO:Imagine Dragons:Tinie Tempah:a
+37:Calvin Hill:Calvin Harris:Calvin Carris:Calvin Klein:c
+38:Chainz:Eminem,Rihanna:Wiz Khalifa:David Guetta:b
+39:Toc Tien:Dong Nhi:Thuy Tien:Tien Tien:d
+40:Pibull:David Guetta:Britney:Soobin:b
+41:Avicii:Avici:Aviciii:Aviciiii:a
+42:Wiz Khalifa:Wiz Khalifa,chainz:Wiz Khalifa,Justa:Chainz:b
+43:Pitbull:Tinie Tempah:Tinie:Tempah:b
+44:Min:Tin:Hin:Vin:a
+45:Britney Hill:Britney Spears:Britney Tomnie:Britney Cool:b
+46:fabulous:fabuous:fabolous:facais:c
+47:Uc:My:Anh:Canada:b
+48:Uc:My:Anh:Canada:b
+49:Wiz:Chainz:Eminem:Hot Filler:c
+50:Viet Nam:Thai Lan:Campuchia:Trung Quoc:a

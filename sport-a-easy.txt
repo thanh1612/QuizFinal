@@ -1,0 +1,50 @@
+1:bong da:bong ro:bong bau duc:bong chay:a
+2:12:11:10:9:b
+3:dien kinh:bong da:cau long:bong ro:c
+4:bong da:bong ro:bong chay:bong ban:d
+5:CBA:CAB:ACB:BCA:a
+6:Italy:Brazil:Argentina:Germany:b
+7:Maradona:Juninho:Pele:Berkhamp:c
+8:Ronaldo:Messi:Adriano:Beckenbauer:d
+9:4:3:2:1:a
+10:1:2:3:4:b
+11:4:3:2:1:a
+12:Christiano Ronaldo:Lionel Messi:Michael Phelps:Lebron James:d
+13:boxing:da banh:bong ro:golf:a
+14:Christiano Ronaldo:Floyd Maywheather:Kevin Love:Lebron James:b
+15:bong da:bong ro:bong chuyen:bong chay:c
+16:9:8:7:6:d
+17:Amir Khan:Floyd Maywheather:Pacquiao:Mike Tyson:d
+18:My:Anh:Brazil:Argentina:a
+19:Anh:My:Nga:Duc:b
+20:Bac Au:Nam Phi:Bac Phi va Dia Trung Hai:Chau A:c
+21:Brazil:Phap:Nam Phi:Anh:d
+22:Ai Cap:La Ma:An Do:Trung Quoc:a
+23:My:Anh:Tay Ban Nha:Bo Dao Nha:b
+24:Michael Haphel:Michael Phepls:Michael King:Michael Dikson:b
+25:Nha Trang Celtics:Binh Duong Becamex:Saigon Heat:Hanoi 76ers:c
+26:Tu An Pham:Chong Paul:Trieu Han Minh:Hoang Thien Nhan:c
+27:Cong Vinh:Hoang Son:Thai Son:Hong Son:d
+28:Dao Huu Uyen:Nguyen Minh Son:Luong Thai Anh:Hoang Thien Nhan:a
+29:bong chay:golf:bong da:bong ro:b
+30:bong chay:bong ro:bong da:bong chuyen:c
+31:bong chay:bong chuyen:golf:bong ro:d
+32:Amir Khan:Floyd Maywheather:Pacquiao:Mike Tyson:b
+33:Lionel Messi:Zidane:Christiano Ronaldo:David Berkhamp:c
+34:bong chuyen:bong ro:bong nem:bong da:d
+35:Nga:My:Tay Ban Nha:Anh:d
+36:quyen anh:muay thai:pecak silat:vovinam:a
+37:bong ro:bong da:bong chuyen:bong nem:b
+38:41:42:43:40:d
+39:Anh:My:Phap:Halan:a
+40:My:Phap:Anh:Canada:a
+41:Nga:My:Philippin:Thai Lan:c
+42:Nguyen Huu Nhan:Nguyen Ha Nhan:Nguyen Tran Ho:Nguyen Tran Duy Nhat:d
+43:Ha Lan:Italia:Bo Dao Nha:Anh:b
+44:Duc:Anh:My:Canada:a
+45:33:34:35:36:b
+46:290.000.000$:300.000.000$: 400.000.000$: 180.000.000$:b
+47:10 phut:11 phut:12 phut:13 phut:c
+48:3:4:5:6:b
+49:Curry:Jordan:Russel:Lebron James:d
+50:1000:2000:3000:4000:a

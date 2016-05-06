@@ -1,0 +1,7 @@
+Thor:60:culture
+Nhat:55:sport
+Lamquang:55:music
+Iron Man:80:music
+Noah:26.6:general
+chuong chuong:75:culture
+Captain America:80:sport

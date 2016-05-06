@@ -1,0 +1,51 @@
+1:Au Lac:Van Lang:Van Xuan:Dai Viet:b
+2:Vo Nguyen Giap:Ton Duc Thang:Ho Chi Minh:Vo Van Ky:c
+3:Yen Bai:Lao Cai:Dong Nai:Khanh Hoa:d
+4:52:51:53:54:d
+5:Ngo Quyen:Ong Ich Khiem:Nguyen Trai:Nguyen Kiem:a
+6:banh chung:banh ich:banh com:banh hoi:a
+7:Quang Ninh:Quang Binh:Quang Nam:Ha Tinh:b
+8:Quang Ninh:Quang Binh:Quang Nam:Ha Tinh:a
+9:35:37:36:38:c
+10:Hung Vuong:Gia Dinh:Quang Trung:Gia Long:a
+11:Tet Thanh Minh:Tet Tay:Le Cau Mua:Le Ra Dong:a
+12:Kien Giang:Can Tho:Ca Mau:An Giang:d
+13:dau den:dau do:dau co ve:dau ngu:b
+14:21:22:23:24:d
+15:3:4:5:6:c
+16:Nguyen Sinh Trac:Nguyen Sinh Thoi:Nguyen Sinh Trung:Nguyen Sinh Cung:d
+17:Ha Tinh:Nghe An:Thanh Hoa:Quang Binh:b
+18:Vo Nguyen Giap:Ho Chi Minh:Nguyen Huu Nam:Vo Trung:a
+19:Ba Ria Vung Tau:Can Tho:Hau Giang:Tien Giang:a
+20:Hau Giang:Ha Giang:Kien Giang:Tien Giang:c
+21:ao ba ba:ao cham bi den:ao vai:ao tu than:a
+22:Soc Trang:Ben Tre:Hau Giang:Tien Giang:b
+23:Binh Dinh:Ninh Binh:Bac Giang:Thanh Hoa:b
+24:song Han:song Cuu Long:song Hau:song Cai:c
+25:Quang Nam:Da Nang:Quang Ninh:Quang Binh:a
+26:Cam Ranh:Vung Tau:Hai Phong:Da Nang:c
+27:Can Tho:Ben Tre:Hau Giang:Tien Giang:a
+28:Truong Son:Phan Xi Pang:Huu Son:Ong Mu:b
+29:mien Nam:mien Bac:mien Tay:Tay Nguyen:d
+30:Ha Noi:Hue:Da Nang:Hoi An:a
+31:lanh va kho:nong va kho:am uot va suong mu:tuyet va suong mu:b
+32:Da Nang:Ca Mau:Nha Trang:Quang Ninh:c
+33:Ben Tre:Soc Trang:Vung Tau:Can Tho:a
+34:Ba Ria Vung Tau:Can Tho:An Giang:Kien Giang:b
+35:nha san:nha choi:nha cap 4:villa:a
+36:Nha Trang:Daklak:Da Lat:Hue:c
+37:hoa cuc:hoa hong:hoa phuong:hoa sen:d
+38:DB Song Cuu Long:DB Song Hong:DB Thanh Hoa:DB Nghe Tinh:a
+39:Hai Phong:Nha Trang:Hue:Ha Noi:d
+40:Khanh Hoa:Ninh Thuan:Binh Thuan:Lam Dong:a
+41:Hai Phong:Ba Ria Vung Tau:Can Tho:Quang Ninh:b
+42:Nha Trang:Ho Chi Minh:Daklak:Ba Ria:b
+43:Nha Trang:Ho Chi Minh:Daklak:Ba Ria:b
+44:Hai Phong:Ho Chi Minh:Ha Noi:Nha Trang:c
+45:Bun bo hue:banh can:bun ca sua:bun dau:c
+46:Nha Trang:Tuy Hoa:Ninh Thuan:Vung Tau:d
+47:Quang Nam:Hue:Da Nang:Nha Trang:a
+48:Can Tho:Kien Giang:Dong Thap:Ba Ria Vung Tau:d
+49:Nep:rong bien:la chuoi:khoai tay:a
+50:DB Song Cuu Long:DB Song Hong:DB Thanh Hoa:DB Nghe Tinh:a
+51:1970:1975:1974:1973:b

@@ -1,0 +1,50 @@
+1:Cac vua Hung dat quoc hieu nuoc ta la gi?
+2:Ai la nguoi mo duong cho CM VN?
+3:Nha Trang thuoc tinh nao?
+4:Dat nuoc Viet Nam co bao nhieu dan toc?
+5:Nhac toi tran danh oanh liet tren song Bach Dang chung ta nho den nguoi anh hung nao?
+6:Nhac den Tet co truyen chung ta nho den loai banh gi lam tu nep?
+7:Dong Phong Nha thuoc tinh nao?
+8:Vinh Ha Long thuoc tinh nao?
+9:Ha Noi co bao nhieu pho phuong?
+10:Tuc an trau co tu thoi nao?
+11:Tuc xong nha la phong tuc co trong ngay le gi o Viet Nam?
+12:Le hoi Ba Chua Xu thuoc tinh nao?
+13:Trung Du Bac Bo co the manh trong cay gi?
+14:TPHCM co bao nhieu quan?
+15:Tay Nguyen gom tat ca bao nhieu cao nguyen?
+16:Bac Ho ten that la gi?
+17:Que quan cua Bac Ho thuoc tinh nao?
+18:Ai la vi tuong co cong lon nhat trong chien dich Dien Bien Phu?
+19:Con Dao thuoc tinh nao?
+20:Dao Phu Quoc thuoc tinh nao?
+21:Trang phuc truyen thong cua nguoi dan mien Nam la gi?
+22:Le hoi Dua noi tieng thuoc tinh nao?
+23:Chua lon nhat Viet Nam nam o tinh nao?
+24:Thanh pho Can Tho nam ben dong song nao?
+25:Khu di tich pho co Hoi An thuoc tinh nao?
+26:Cang nao lon nhat Viet Nam?
+27:Cho Cai Rang noi tieng thuoc tinh nao?
+28:Nui nao cao nhat Viet Nam?
+29:Cong chieng la nhac cu noi tieng cua mien nao?
+30:Quoc Tu Giam nam o dau?
+31:Dac diem khi hau Viet Nam?
+32:Mot trong 29 vinh dep nhat the gioi nam o tinh nao?
+33:Dac san keo dua thuoc tinh nao?
+34:ben Ninh Kieu nam o dau?
+35:Kieu nha dac trung o Tay Nguyen?
+36:Ho Xuan Huong nam o dau?
+37:Quoc hoa cua Viet Nam la hoa gi?
+38:Dong bang nao la dong bang lon nhat ca nuoc?
+39:Ho Hoan Kiem nam o dau?
+40:Le hoi Thap Ba thuoc tinh nao?
+41:Tinh nao co tru luong dau mo khi dot cao nhat ca nuoc?
+42:Cho Ben Thanh noi tieng nam o thanh pho nao?
+43:Dinh Doc Lap noi tieng nam o thanh pho nao?
+44:Lang Bac Ho vi dai duoc dat tai thanh pho nao?
+45:Mon an dac san cua nguoi Nha Trang?
+46:Banh khot noi tieng la dac san cua vung nao?
+47:Mi Quang la dac san noi tieng cua vung nao?
+48:Banh canh Long Huong noi tieng thuoc tinh nao?
+49:Banh beo, banh hoi duoc lam tu nguyen lieu gi?
+50:Vua lua lon nhat Viet Nam nam o vung nao?51:Bac Ho mat nam nao?

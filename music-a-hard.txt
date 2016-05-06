@@ -1,0 +1,20 @@
+1:Viet Nam:USA:Canada:England:a
+2:Olly Murs:Frozen:Monster:I Hate U:a
+3:2:3:4:5:b
+4:Isaac:Dong Nhi:Son Tung MTP:Huy Tuan:c
+5:Jason Sanelle:Jason Isbell:Jason Kidd:Elena Alice:b
+6:Ha Lan:USA:England:Mehico:a
+7:3:4:5:6:b
+8:3:4:5:6:a
+9:3:4:5:6:d
+10:Shayne Ward:Shane Filan:Demi Lovato:Lady Gaga:c
+11:Shayne Ward:Shane Filan:Demi Lovato:Lady Gaga:d
+12:One Direction:Fall Out Boy:Big Bang:Super Junior:a
+13:Ben E.James:Ben E.King:Ben Foster:Alice Wildman:b
+14:Demi Lovato:Taylor Swift:Nicky Minaj:Lady Gaga:b
+15:70:74:76:80:c
+16:George Haster:Ben Foster:Eric Clapton:Billie:c
+17:Phu Quang:Long Halo:Toc Tien:Touliver:b
+18:30:31:32:33:a
+19:Will:Isaac:Jun:S.T:b
+20:365Daband:Buc Tuong:One Direction:St.316:a
